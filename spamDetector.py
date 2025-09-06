@@ -158,9 +158,9 @@ def main():
     st.sidebar.markdown("---")
     st.sidebar.write("### About")
     st.sidebar.write("This application uses machine learning to classify emails as spam or ham.")
-    st.sidebar.write("Developed by Narayanan M.")
+    st.sidebar.write("Developed by Devendra Patidar")
     
-    github_url = "https://github.com/m-narayanan/safemail-ai" 
+    github_url = "https://github.com/Devendraptdr01/email-spam-detector" 
     st.sidebar.markdown(f"[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)]({github_url})")
 
 

@@ -4,9 +4,7 @@
 
 Welcome to SafeMail AI, your personal digital bouncer that keeps those pesky spam emails out of your inbox! This cool little Streamlit app uses machine learning to distinguish between legitimate emails and unwanted digital junk mail.
 
-![Spam Detection Superhero](https://img.shields.io/badge/Spam%20Detection-Superhero-brightgreen)
-![Python Version](https://img.shields.io/badge/Python-3.8+-blue)
-![Machine Learning](https://img.shields.io/badge/ML-Spam%20Classification-orange)
+
 
 ## ✨ Features
 
@@ -40,7 +38,7 @@ Welcome to SafeMail AI, your personal digital bouncer that keeps those pesky spa
 
 ```bash
 # Clone the repository
-git clone https://github.com/m-narayanan/safemail-ai.git
+git clone https://github.com/Devendraptdr01/safemail-ai.git
 
 # Navigate to project directory
 cd safemail-ai
@@ -84,7 +82,7 @@ Got ideas to make SafeMail AI even cooler? Pull requests are welcome!
 ## 👨‍💻 About the Developer
 
 Created with ❤️ by Narayanan M.
-- GitHub: [@m-narayanan](https://github.com/m-narayanan)
+- GitHub: [Devendraptdr01](https://github.com/Devendraptdr01)
 
 ## 📜 License
 
