@@ -81,7 +81,7 @@ Got ideas to make SafeMail AI even cooler? Pull requests are welcome!
 
 ## 👨‍💻 About the Developer
 
-Created with ❤️ by Narayanan M.
+Created with ❤️ by Devendra patidar
 - GitHub: [Devendraptdr01](https://github.com/Devendraptdr01)
 
 ## 📜 License
